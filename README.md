@@ -2,12 +2,17 @@
 <h3 align="center">A Data Scientist and Machine Learning enthusiast</h3>
 
 ```python
-Gabriel = {
-  "Currently Learning" : "R language and Airflow",
-  "Email" : "gabrielmoraesmagalhaes@gmail.com",
-  "LinkedIn Profile" : "https://www.linkedin.com/in/gabrielmoraesmagalhaes/"
-}
+def Gabriel(question : str):
+
+    match question:
+
+        case "Currently Learning":
+            return "R language and Airflow"
+
+        case "Email":
+            return "gabrielmoraesmagalhaes@gmail.com"
 ```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielmoraesmagalhaes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielmoraesmagalhaes/" height="30" width="40" /></a>
@@ -17,6 +22,9 @@ Gabriel = {
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/> </a>
+</p>
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrlmoraes&show_icons=true&locale=en&layout=compact" alt="gbrlmoraes"/>
 </p>
 
 <h3 align="left">Machine Learning Frameworks:</h3>
@@ -42,5 +50,4 @@ Gabriel = {
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/> </a>    
 </p>
 
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrlmoraes&show_icons=true&locale=en&layout=compact" alt="gbrlmoraes" /></p>
-</p>
+<p align="left"> </p>
