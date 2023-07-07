@@ -12,7 +12,7 @@ def Gabriel(question : str):
     match question:
 
         case "Currently Learning":
-            return "R language and Airflow"
+            return "NLP with Python"
 
         case "Email":
             return "gabrielmoraesmagalhaes@gmail.com"
