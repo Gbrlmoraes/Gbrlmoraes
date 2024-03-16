@@ -21,6 +21,7 @@ def Gabriel(question : str):
             return ["Python", "SQL", "R"]
 ```
 <p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=gbrlmoraes&show_icons=true&theme=dracula" alt="gbrlmoraes"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrlmoraes&show_icons=true&locale=en&layout=compact" alt="gbrlmoraes"/>
 </p>
 
