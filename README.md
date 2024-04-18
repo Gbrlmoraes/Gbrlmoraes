@@ -12,13 +12,10 @@ def Gabriel(question : str):
     match question:
 
         case "Currently Learning":
-            return ["PySpark", "Google Cloud", "Machine Learning"]
+            return ["TensorFlow", "Keras", "GCP", "LangChain"]
 
         case "Email":
             return "gabrielmoraesmagalhaes@gmail.com"
-
-        case "Languages":
-            return ["Python", "SQL", "R"]
 ```
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=gbrlmoraes&show_icons=true&theme=dracula" alt="gbrlmoraes"/>
