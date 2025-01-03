@@ -11,7 +11,7 @@ def Gabriel(question : str):
     match question:
 
         case "Currently Learning":
-            return ["TensorFlow & Keras", "AI in GCP", "GO"]
+            return ["LLMs & SLMs", "AI in GCP"]
 
         case "Email":
             return "gabrielmoraesmagalhaes@gmail.com"
