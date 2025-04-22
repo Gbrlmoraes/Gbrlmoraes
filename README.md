@@ -1,23 +1,19 @@
-<h1 align="center">Hi 🤖, I'm Gabriel</h1>
+<h1 align="center">Gabriel Moraes Magalhães</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact Information</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabrielmoraesmagalhaes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielmoraesmagalhaes/" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/gabrielmoraesmagalhaes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
+    <span>&nbsp;&nbsp; gabrielmoraesmagalhaes@gmail.com</span>
 </p>
 
-```python
-def Gabriel(question : str):
+<h3 align="left">Current Learning Focus</h3>
+<ul>
+    <li>AI Agents</li>
+    <li>Machine Learning</li>
+</ul>
 
-    match question:
-
-        case "Currently Learning":
-            return ["LangGraph", "Crew AI", "Fine-Tuning in SLMs"]
-
-        case "Email":
-            return "gabrielmoraesmagalhaes@gmail.com"
-```
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=gbrlmoraes&show_icons=true&theme=dracula" alt="gbrlmoraes"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrlmoraes&show_icons=true&locale=en&layout=compact" alt="gbrlmoraes"/>
+<h3 align="left">GitHub Statistics</h3>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=gbrlmoraes&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrlmoraes&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
-
