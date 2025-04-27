@@ -11,9 +11,3 @@
     <li>AI Agents</li>
     <li>Machine Learning</li>
 </ul>
-
-<h3 align="left">GitHub Statistics</h3>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=gbrlmoraes&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrlmoraes&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
